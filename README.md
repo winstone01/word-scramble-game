@@ -76,4 +76,4 @@ UI-focused frontend developer building clean, responsive web interfaces.
 
 ## License
 
-MIT (or your preferred license)
+MIT 
